@@ -5,7 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
-
+//conflict case1 remote
+	conflict(){
+	}
 
 //local to remote-1
 hello buddy1(){
