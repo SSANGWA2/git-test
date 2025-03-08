@@ -8,7 +8,11 @@ public class Application {
 
 
 //local to remote-1
-hello buddy(){
+hello buddy1(){
+
+}
+	//remote to local-2
+hello buddy2(){
 
 }
 
