@@ -5,9 +5,17 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
+
+//conflict case2 local
+	conflictlocal2(){
+	}
+
+
+
 //conflict case2 master
 	conflictmaste(){
 	}
+
 //conflict case1 local
 	conflictlocal(){
 	}
