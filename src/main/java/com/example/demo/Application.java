@@ -5,6 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
+//conflict case1 local
+	conflictlocal(){
+	}
 
 
 //local to remote-1
