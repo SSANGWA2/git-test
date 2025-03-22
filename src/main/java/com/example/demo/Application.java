@@ -9,11 +9,14 @@ public class Application {
 	//hare krishna
 
 	//jai gauranga
-\
+
 	//jai srila prabhupada
 
 	//jai panchtatva
 	 
+
+
+	//jai nityananda
 
 
 	//both loves each other
