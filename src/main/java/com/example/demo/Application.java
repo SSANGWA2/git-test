@@ -9,6 +9,7 @@ public class Application {
 	//hare krishna
 
 	//jai gauranga
+	//jai nityananda
 
 	//both loves each other
 	//suresh loves mansu
