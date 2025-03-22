@@ -5,7 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
+
 	//hare krishna
+
+	//jai gauranga
+
 	//both loves each other
 	//suresh loves mansu
 	//mansu loves me
